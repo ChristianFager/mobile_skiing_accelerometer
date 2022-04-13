@@ -8,6 +8,6 @@ To test with Unity Remote make sure you have the build platforms installed and i
 
 Make sure in Project Settings -> Editor -> Device you select 'Any iOS Device' or whatever device you are using.
 
-(mobile_skiing_accerometer.png)
+https://user-images.githubusercontent.com/97547795/163262192-dd897f30-7e79-4b92-939f-1b57cf35b43f.png
 
 Thanks to the people in the Unity forums for help with the lowpass & pitch/roll calculations.
