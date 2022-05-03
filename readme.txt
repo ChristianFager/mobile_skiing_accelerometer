@@ -5,7 +5,6 @@ By default, the 'accelerometer' is checked.  The GUI joystick will override it i
 There is an option for 'gyro', however use it for your own purposes, as it is not perfected in this demo (no real intermediary between left/right).
 
 To test with Unity Remote make sure you have the build platforms installed and if needed iTunes (if using iOS device on a Windows machine).
-
 Make sure in Project Settings -> Editor -> Device you select 'Any iOS Device' or the device you are using.
 
 Thanks to the people in the Unity forums for help with the lowpass & pitch/roll calculations & lowpass filtering.
